@@ -16,12 +16,4 @@ Implicit coercion occurs when JavaScript automatically converts a value from one
 Explicit coercion occurs when the developer intentionally converts a value from one data type to another using built-in functions or operators.
 
 - This allows the developer to control the conversion process and ensure that values are converted to the desired type.
-- Examples of explicit coercion include using functions like
-
-##### Number(),
-
-###### String(),
-
-###### Boolean()
-
-to convert values to numbers, strings, or booleans, respectively.
+- Examples of explicit coercion include using functions like Number(), String(), or Boolean() to convert values to numbers, strings, or booleans, respectively.
