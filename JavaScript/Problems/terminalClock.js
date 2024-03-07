@@ -1,4 +1,3 @@
-let intervalId
 
 function showTime() {
     const d  = new Date()
