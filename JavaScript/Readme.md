@@ -46,3 +46,7 @@ Use var when you need variables with function scope or when you want to declare 
 Use let when you need block-scoped variables that can be reassigned.
 
 Use const when you want to declare variables with block scope that should not be reassigned.
+
+### Callbacks
+
+- In JavaScript, a callback function is a function that is passed as an argument to another function and is executed after some operation has been completed. Essentially, it's a way to ensure that certain code doesn't execute until a particular task is finished
